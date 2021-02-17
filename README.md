@@ -12,7 +12,7 @@
 | ISBN-13 | 9784065128442 |
 
 ## 環境
-| 言語 | コンパイラ |
-----|---- 
-| C++ | gcc 9.2.0 |
-| Java | OpenJDK jdk-11+28 |
+| サイト | 言語 | コンパイラ |
+----|----|---- 
+| [Wandbox](https://wandbox.org/) | C++ | gcc 9.2.0 |
+| [Wandbox](https://wandbox.org/) | Java | OpenJDK jdk-11+28 |
